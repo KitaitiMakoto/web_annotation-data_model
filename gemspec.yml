@@ -1,0 +1,11 @@
+name: web_annotation-data_model
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: LGPL
+authors: KITAITI Makoto
+email: KitaitiMakoto@gmail.com
+homepage: https://rubygems.org/gems/web_annotation-data_model
+
+development_dependencies:
+  rubygems-tasks: ~> 0.2
+  yard: ~> 0.8
