@@ -1,6 +1,6 @@
 name: web_annotation-data_model
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "A Ruby library for Web Annotation Data Model"
+description: "A Ruby library for Web Annotation Data Model which described in http://www.w3.org/TR/annotation-model/"
 license: LGPL
 authors: KITAITI Makoto
 email: KitaitiMakoto@gmail.com
